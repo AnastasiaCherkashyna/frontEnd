@@ -1,0 +1,33 @@
+*{
+    text-align: left; 
+    color: black;
+    margin: 30;
+    padding: 30;
+}
+img {
+    height: 400px;}
+
+    p{
+        background-color: rgb(228, 208, 208);
+    }
+    div{
+        text-align: center;
+        
+    }
+    .subheader{
+        font-size: large;
+        text-align: center;
+    }
+    h2{
+        text-align: center;
+    }
+    .main-text{
+        color: rgb(59, 116, 97);
+    }
+    .main-text:last-child{
+        background-color: coral;
+        text-align: center;
+        color: chartreuse;
+    }
+
+    
