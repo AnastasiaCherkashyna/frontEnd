@@ -1,33 +1,29 @@
 *{
-    text-align: left; 
-    color: black;
-    margin: 30;
-    padding: 30;
+    text-align: left;
 }
-img {
-    height: 400px;}
 
-    p{
-        background-color: rgb(228, 208, 208);
-    }
-    div{
-        text-align: center;
-        
-    }
-    .subheader{
-        font-size: large;
-        text-align: center;
-    }
-    h2{
-        text-align: center;
-    }
-    .main-text{
-        color: rgb(59, 116, 97);
-    }
-    .main-text:last-child{
-        background-color: coral;
-        text-align: center;
-        color: chartreuse;
-    }
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    color: black;
+}
 
-    
+p{
+    display: flex;
+    flex-wrap: wrap;
+    background-color: rgb(239, 245, 210);
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    border: 2px solid red;
+    margin: 5px;
+    padding: 10px;
+    box-sizing: content-box;
+}
+
+span{
+    border: 2px solid blue;
+}
+img{
+    display: flex;
+    flex-wrap: wrap;
+}
